@@ -8,6 +8,9 @@ This design choice ensures the application is fast, easy to maintain, and suitab
 
 ---
 
+## Live Demo
+http://babraskitchen.42web.io/index.php?i=1 (Please Click Details and visit thisunsafe site it's free hosting, I'm looking foward to host it on a trusted one)
+
 ## Core Concept: Redirection-Based Interaction
 
 All user actions in Babras Kitchen are handled through **client-side redirects**. When a user clicks a button, they are redirected to an external service with pre-filled information.
